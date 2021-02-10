@@ -3,7 +3,8 @@ Coursera Deep learning specification
 
 
 *일시 :  3월 둘째 주(2021년 3월 13일 토요일 ~ 2021년 6월 19일 토요일 )
-             2주 간격 진행  - 총8회 ( 미리 공부 해 온 뒤 회차를 줄여서 진행합니다 )
+         2주 간격 진행  - 총8회 ( 미리 공부 해 온 뒤 회차를 줄여서 진행합니다 )
+             
 *과목명 : Coursera Deep learning specification(https://www.coursera.org/specializations/deep-learning)
 링크 열어보시면 총 5개 Course 로 구성되어있습니다
 
